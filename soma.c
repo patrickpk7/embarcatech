@@ -7,10 +7,10 @@ int main(){
     int n1, n2;
     int soma;
 
-    printf("Digite o numero 1: ");
+    printf("Digite o n 1: "); //modifiquei de numero para n
     scanf("%d", &n1);
 
-    printf("digite o numero 2: ");
+    printf("digite o n 2: ");//modifiquei de numero para n
     scanf("%d", &n2);
 
     soma = n1 + n2;
