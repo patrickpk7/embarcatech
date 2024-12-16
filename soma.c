@@ -7,6 +7,8 @@ int main(){
     int n1, n2;
     int soma;
 
+
+    printf("Este programa soma");
     printf("Digite o n 1: "); //modifiquei de numero para n
     scanf("%d", &n1);
 
